@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Wet+Paint&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Wet+Paint&display=swap');
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Wet+Paint&display=swap');
+
+
+body{
+    background-color: rgb(0, 0, 0);
+    margin: 0px; 
+    background:url(dark-geometric-background_1409-928.avif)
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+
+
+
+.ulist {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+.global{
+    font-family: open sans;
+    font-weight: bold;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+
+}
+
+.mjv{
+    margin: 0px 0px 0px 30px;
+}
+
+.search{
+    margin: 0px 30px 0px 0px;
+    
+}
+
+.supply{
+    font-family: roboto;
+    font-weight: lighter;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    margin: 0px; 
+    position: fixed;   
+}
+
+
+.demon{
+    font-family: open sans;
+    font-weight: lighter;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px;    
+      
+}
+
+.border{
+    padding: 50px 10px  ;
+    margin: 100px 400px 0px 450px;
+    border: 1px solid white;
+    height: 270px ;
+    width: 700px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 40px white;
+    
+}
+
+.border{
+    align-items: center;
+    margin: 150px 450px;
+    
+}
+
+.study{
+    color: rgb(255, 251, 251);
+    text-align: center;
+    font-family: Libre Baskerville;
+    font-size: 50px; 
+    font-style: italic;
+    text-shadow: 8px 8px 8px rgb(48, 48, 49);
+    margin: 0px;
+}
+
+.study2{
+    color: rgb(255, 251, 251);
+    text-align: center;
+    font-family: Libre Baskerville;
+    font-size: 50px; 
+    font-style: italic;
+    text-shadow: 8px 8px 8px rgb(48, 48, 49);
+    margin: 120px 0px 0px 0px ;
+}
+
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+
+.pics3{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 170px 0px 170px ;
+    color: white;
+}
+
+
+.para3{
+        font-family: open sans;
+        display: flex;
+        justify-content: center;
+        gap: 100px;
+        font-size: 16px;
+        margin-block-start: 0.83em;
+        margin-block-end: 0.83em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+        unicode-bidi: isolate;
+        color: white;
+        margin: 0px 50px 0px 5px;  
+}
+
+.shortpara{
+    font-family: open_sans;
+    font-size: 17px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 180px;
+}
+
+
+.button{
+    border: 1px solid white;
+    border-radius: 7px;
+    background-color: black;
+    margin: 20px 500px 0px 680px;
+    text-shadow: 2px 1px 8px rgb(255, 255, 255);
+}
+.button{
+    text-shadow: 8px 8px 8px rgb(48, 48, 49);
+}
+
+.box3{
+    /* border: 1px solid white; */
+
+    width: 300px;
+    color: white;
+    font-size: 20px;
+}
+
+
+.fullbox{
+    display: flex;
+    justify-content: space-between;
+    gap:90px ;  
+    margin: 80px 320px 0px 300px;
+    align-items: center;
+
+
+}
+
+
+.button2{
+    border: 1px solid white;
+    border-radius: 7px;
+    background-color: black;
+    margin: 50px 500px 0px 680px;
+    text-shadow: 2px 1px 8px rgb(255, 255, 255);
+    text-shadow: 8px 8px 8px rgb(48, 48, 49);
+}
+
+.getintouch{
+    
+    
+    color: black;
+    width:10000px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 25px;
+
+}
+
+
+.getintouch{
+    margin: 200px 0px 0px 700px;
+}
